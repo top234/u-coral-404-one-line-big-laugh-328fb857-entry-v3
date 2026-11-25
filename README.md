@@ -8,6 +8,8 @@
 
 > My wife says I spend too much time on my phone. She texted me that. From the next room.
 
+The complaint arrives through the very thing being complained about.
+
 ## Run
 
 ```sh
